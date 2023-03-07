@@ -9,6 +9,9 @@ Calculate the area and center of every domain in one picture
 ![intermediate](example/pic7_bin.png)
 ### Output:
 ![Output](example/pic7_final.png)
+## Prepare
+run `pip install -r requirements.txt`
+
 ## Run
 先运行gen_bin.py, 需要修改其中的pic路径
 
